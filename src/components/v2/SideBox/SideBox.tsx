@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import "./SideBox.scss";
 
 interface SideBarProps {
   msg?: string;
