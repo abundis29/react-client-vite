@@ -1,5 +1,7 @@
 # PRECONFIG REACT_APP ❤️‍🩹
 
+[![Node.js CI](https://github.com/abundis29/react-client-vite/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/abundis29/react-client-vite/actions/workflows/node.js.yml)
+
 ## Available Scripts 📝
 
 In the project directory, you can run:
@@ -14,22 +16,15 @@ or
 
 ### Cloning The Project
 
-### `npm run setup`
+### `npm install`
 
-If it fails the first time, run it twice 💔
-
-### `npm start`
+### `npm run dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm run validate`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -38,5 +33,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
